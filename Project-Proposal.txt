@@ -1,0 +1,10 @@
+-{ Sentiment Analysis of Product Reviews }-
+
+This would be a classification problem. Final model should classify input review/text as positive or negative. 
+We are looking into this dataset: https://www.kaggle.com/datasets/mansithummar67/flipkart-product-review-dataset/code
+
+We are hoping to look at (vanilla) RNN and LSTM to see limitations and advantages of each. We want to do some hyperparameter tuning and explore how these parameters affect our model and accuracies. 
+
+We also have the ambition of trying out Tensorboard.
+
+I have a simple request, I was just wondering if we find a better dataset can we choose it? Instead of the one provided?
